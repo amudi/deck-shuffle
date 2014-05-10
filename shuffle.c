@@ -1,6 +1,5 @@
 #include <stdio.h>  // for io
-#include <stdlib.h> // for calloc and realloc
-#include <string.h> // for memcmp
+#include <stdlib.h> // for malloc
 
 #ifndef DEBUG
 // #define DEBUG
